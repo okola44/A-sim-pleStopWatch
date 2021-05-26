@@ -1,0 +1,19 @@
+.container{
+    height: 300px;
+    width: 80%;
+    text-align: center;
+    background-color: coral;
+    
+}
+.button{
+    text-align: center;
+    background-color: brown;
+}
+#display{
+    width: 100%;
+    text-align: center;
+    font-size: 80px;
+color: brown;
+
+
+}
